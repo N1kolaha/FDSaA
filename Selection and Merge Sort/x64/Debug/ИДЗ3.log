@@ -1,0 +1,4 @@
+﻿  ИДЗ3.cpp
+C:\Users\gavre\Desktop\ИДЗ3\ИДЗ3.cpp(55,19): warning C4101: n: неиспользованная локальная переменная
+C:\Users\gavre\Desktop\ИДЗ3\ИДЗ3.cpp(187,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ИДЗ3.vcxproj -> C:\Users\gavre\Desktop\ИДЗ3\x64\Debug\ИДЗ3.exe
